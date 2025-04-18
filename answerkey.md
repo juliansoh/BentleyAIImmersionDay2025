@@ -12,3 +12,7 @@ Name the Agent
 Define/refine the task this agent needs to undertake
 
 ![Refine Copilot Agent's role](images/DefineTask.png)
+
+Optional - Choose whether to include Web results or not
+
+![Add publicly accesible sites as source](images/IncludeWeb.png)
