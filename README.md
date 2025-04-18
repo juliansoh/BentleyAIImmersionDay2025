@@ -22,7 +22,7 @@ Task 2: Explore using the Microsoft Copilot Chat
 
 Task 3: Navigating Copilot Studio ([answer key](answerkey.md))
 - Create a folder in your enterprise OneDrive and upload a few files
-   - You can use the sample files in the /sample folder of this repository if you like
+   - You can use [the sample files in the /sample folder](documents/) of this repository if you like
 - Go to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com) and log in.
 - Create an agent that will:
    - Use the above OneDrive folder that you created, and the files in it, as a knowledge source
