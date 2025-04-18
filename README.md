@@ -9,6 +9,7 @@ This repo contains resources and instructions for the Hackathon to implement Mic
 People taking documents and build a simple agent to ask questions.
 
 ## Reading materials
+1. [What is Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 1. [Use SharePoint Content for generative answers](https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-generative-answers-sharepoint-onedrive)
 
 ## Lab Manual
