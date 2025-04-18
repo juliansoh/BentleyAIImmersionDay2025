@@ -5,4 +5,15 @@ This repo contains resources and instructions for the Hackathon to implement Mic
 ![schedule](images/schedule.png)
 
 ## Use Case
-People taking documents and build a simple agents to ask questions.
+People taking documents and build a simple agent to ask questions.
+
+## Reading materials
+
+## Lab Manual
+Please complete each task:
+
+Task 1: Complete the reading list to understand what is is a copilot.
+
+Task 2: Explore using the Microsoft Copilot Chat
+
+Task 3: 
