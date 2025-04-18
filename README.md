@@ -1,2 +1,8 @@
-# BentleyAIImmersionDay2025
-This is the repo for the 2025 Bentley AI Immersion Day
+# Bentley Systems - 2025 AI Immersion Day
+This repo contains resources and instructions for the Hackathon to implement Microsoft 365 Copilots.
+
+## Agenda
+
+
+## Use Case
+People taking documents and build a simple agents to ask questions.
