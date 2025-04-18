@@ -16,3 +16,7 @@ Define/refine the task this agent needs to undertake
 Optional - Choose whether to include Web results or not
 
 ![Add publicly accesible sites as source](images/IncludeWeb.png)
+
+List URLs to crawl, if you said "Yes" in the above.
+
+![List public sites](images/IncludeURL.png)
