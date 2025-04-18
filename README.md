@@ -21,4 +21,8 @@ Task 2: Explore using the Microsoft Copilot Chat
 
 Task 3: Navigating Copilot Studio ([answer key](answerkey.md))
 - Go to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com) and log in.
-- 
+- Create an agent with the following characteristics
+   - A document crawling  agent for your OneDrive
+   - Giving you highlights on new documents added and any follow-up items you need to pay attention to
+   - Complement the highlights with relevant publicly available information found on bentley.com
+   
