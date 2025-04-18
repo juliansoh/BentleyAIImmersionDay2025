@@ -20,9 +20,11 @@ Task 1: Complete the reading list to understand what is is a copilot.
 Task 2: Explore using the Microsoft Copilot Chat
 
 Task 3: Navigating Copilot Studio ([answer key](answerkey.md))
+- Create a folder in your enterprise OneDrive and upload a few files
+   - You can use the sample files in the /sample folder of this repository if you like
 - Go to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com) and log in.
-- Create an agent with the following characteristics
-   - A document crawling  agent for your OneDrive
-   - Giving you highlights on new documents added and any follow-up items you need to pay attention to
-   - Complement the highlights with relevant publicly available information found on bentley.com
-   
+- Create an agent that will:
+   - Use the above OneDrive folder that you created, and the files in it, as a knowledge source
+   - Do NOT use publicly accessible sites as a source
+   - Test your agent to see if it is working
+

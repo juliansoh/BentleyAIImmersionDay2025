@@ -20,3 +20,7 @@ Optional - Choose whether to include Web results or not
 List URLs to crawl, if you said "Yes" in the above.
 
 ![List public sites](images/IncludeURL.png)
+
+Check the box to confirm adding the site and click create button (see right margin)
+
+![Confirm and create](images/ConfirmAndCreate.png)
