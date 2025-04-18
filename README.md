@@ -20,5 +20,5 @@ Task 1: Complete the reading list to understand what is is a copilot.
 Task 2: Explore using the Microsoft Copilot Chat
 
 Task 3: Navigating Copilot Studio ([answer key](answerkey.md))
-    - Go to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com) and log in.
-    - 
+- Go to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com) and log in.
+- 
