@@ -23,7 +23,7 @@ Please complete each task:
 - At the top right corner, click on the Copilot icon ([image](images/CopilotChat.png))
 - Use Copilot Chat to answer any question you may have. Take note of the question and the answers
 - Use the Add Content (paper clip icon) to attach one of the files from the documents folder in this repo ([image](images/AttachFile.png))
-- Ask questions about the file you just uploaded.
+- Ask questions about the contents of the file you just uploaded.
 - Observations:
    - What are the benfits of using Copilot Chat versus ChatGPT or other public service?
    - Benefits of Copilot Chat for Bentley employees?
