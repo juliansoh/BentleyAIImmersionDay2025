@@ -22,11 +22,11 @@ Click create button (see right margin, towards the top corner)
 
 ![Confirm and create](images/ConfirmAndCreate.png)
 
-Test the agent to make sure it is responding. Then edit the agent and select Add Knowldge.
+Test the agent to make sure it is responding. Then edit the agent and select Add Knowledge.
 
 ![Add Knowledge](images/AddKnowledge.png)
 
-Select ShrePoint.
+Select SharePoint.
 
 ![Select SharePoint](images/SelectSharePoint.png)
 
