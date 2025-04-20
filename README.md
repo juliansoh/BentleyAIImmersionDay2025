@@ -29,6 +29,7 @@ Please complete each task:
 - Observations:
    - What are the benfits of using Copilot Chat versus ChatGPT or other public service?
    - Benefits of Copilot Chat for Bentley employees?
+   - How much does Copilot Chat cost?
 
 **Task 3**: Navigating Copilot Studio ([answer key](answerkey.md))
 - Create a folder in your enterprise OneDrive and upload a few files
