@@ -19,6 +19,8 @@ Please complete each task:
 **Task 1**: Complete the reading list to understand what is is a copilot.
 
 **Task 2**: Explore using the Microsoft Copilot Chat
+- Launch the Microsoft Edge explorer
+- At the top right corner, click on the Copilot icon [image](images/CopilotChat.png)
 
 **Task 3**: Navigating Copilot Studio ([answer key](answerkey.md))
 - Create a folder in your enterprise OneDrive and upload a few files
