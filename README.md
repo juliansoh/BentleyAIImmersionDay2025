@@ -26,6 +26,15 @@ Task 3: Navigating Copilot Studio ([answer key](answerkey.md))
 - Go to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com) and log in.
 - Create an agent that will:
    - Use the above OneDrive folder that you created, and the files in it, as a knowledge source
-   - Do NOT use publicly accessible sites as a source
-   - Test your agent to see if it is working
+   - Do NOT use the AI's general knowledge. Make the OneDrive folder the authoritative source for all answers.
+   - Test your agent to see if it is working. If you used the files in the sample folder, your agent should be able to answer these questions (but do not restrict your testing to just these questions):
+      - "What are the requirements for MicroStation?"
+      - "What are the data file variables for MicroStation?"
+      - "Give me high level instructions for developing applications using MDL."
+      - "What does Bentley Systems do?"
+- Note your observations (examples but not limited to the following examples):
+   - Does the agent answer questions that are not covered in by the documents in the folder?
+   - How did you test/confirm the above?
+   - Does it handle translation for you? What langugaes?
+
 
