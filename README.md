@@ -35,7 +35,7 @@ Please complete each task:
    - Benefits of Copilot Chat for Bentley employees?
    - How much does Copilot Chat cost?
 
-**Task 3**: Deploy an Agent using Copilot Studio ([answer key](answerkey-task3.md))
+**Task 3**: Deploy an agent using Copilot Studio ([answer key](answerkey-task3.md))
 - Create a folder in your enterprise OneDrive and upload a few files
    - You can use [the sample files in the /sample folder](documents/) of this repository if you like
 - Go to _[https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)_ and log in.
@@ -52,7 +52,7 @@ Please complete each task:
    - How did you test/confirm the above?
    - Does it handle translation for you? What langugaes?
 
-**Task 4**: Edit your Copilot to retrieve the current status of Bentley Cloud Services and recent history of incidents.
+**Task 4**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents.
 - RSS feed for the Bentley Cloud Services is located here: _https://status.bentley.com/history.rss_
 - Expand the capability of your Copilot agent to retrieve the current status of services hosted in the Bentley Cloud Service platform, and a history of recent issues.
 - Test your Copilot Agent:
