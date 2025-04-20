@@ -52,7 +52,7 @@ Please complete each task:
    - How did you test/confirm the above?
    - Does it handle translation for you? What langugaes?
 
-**Task 4**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents.
+**Task 4**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](answerkey-task4.md))
 - RSS feed for the Bentley Cloud Services is located here: _https://status.bentley.com/history.rss_
 - Expand the capability of your Copilot agent to retrieve the current status of services hosted in the Bentley Cloud Service platform, and a history of recent issues.
 - Test your Copilot Agent:
