@@ -50,7 +50,7 @@ Please complete each task:
 - Note your observations (examples but not limited to the following examples):
    - Does the agent answer questions that are not covered in by the documents in the folder?
    - How did you test/confirm the above?
-   - Does it handle translation for you? What langugaes?
+   - Does it handle translation for you? What languages? Was it automatic?
 
 **Task 4**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](answerkey-task4.md))
 - RSS feed for the Bentley Cloud Services is located here: _https://status.bentley.com/history.rss_
