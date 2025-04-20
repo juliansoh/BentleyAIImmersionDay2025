@@ -35,7 +35,7 @@ Please complete each task:
    - Benefits of Copilot Chat for Bentley employees?
    - How much does Copilot Chat cost?
 
-**Task 3**: Navigating Copilot Studio ([answer key](answerkey.md))
+**Task 3**: Navigating Copilot Studio ([answer key](answerkey-task3.md))
 - Create a folder in your enterprise OneDrive and upload a few files
    - You can use [the sample files in the /sample folder](documents/) of this repository if you like
 - Go to _[https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)_ and log in.
