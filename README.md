@@ -11,8 +11,7 @@ This repository contains resources and instructions for the Hackathon to impleme
 People taking documents and build a simple agent to ask questions. 
 At the end of this hackathon, present your learnings, benefits, and applicable use cases in Bentley.
 
-_Duration: 60 minutes_
-
+_Duration: 60 minutes_<br>
 _Level: 101_
 
 ## Reading materials
