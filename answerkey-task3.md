@@ -42,5 +42,9 @@ Disable "Allow the AI to use its own general knowledge". We do this so it will a
 
 ![DisableGeneralKnowledge](images/DisableGeneralKnowledge.png)
 
+To have the agent automatically use the language of the user, use prompt engineering. Edit the agent and change the prompt for this agent as shown below.
+
+![AutomaticLanguageHandling](images/AutomaticLanguageHandling.png)
+
 ([__Return to lab__](/README.md#lab-manual))
 

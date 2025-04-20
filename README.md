@@ -47,12 +47,20 @@ Please complete each task:
       - _"What are the data file variables for MicroStation?"_
       - _"Give me high level instructions for developing applications using MDL."_
       - _"What does Bentley Systems do?"_
+      - _"Quelles sont les exigences pour MDL ?"_
+- Edit your 
 - Note your observations (examples but not limited to the following examples):
    - Does the agent answer questions that are not covered in by the documents in the folder?
    - How did you test/confirm the above?
    - Does it handle translation for you? What languages? Was it automatic?
 
-**Task 4**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](answerkey-task4.md))
+**Task 4**: Handling translation
+- If you did not test your agent by asking a question in a language other than English, try to do so.
+   - You can use the question: _"Quelles sont les exigences pour MDL ?" (What are the requirements for MDL?)_
+   - Observe response
+- Instead of the agent always answering in English, have it answer in the language of the user.
+
+**Task 5**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](answerkey-task4.md))
 - RSS feed for the Bentley Cloud Services is located here: _https://status.bentley.com/history.rss_
 - Expand the capability of your Copilot agent to retrieve the current status of services hosted in the Bentley Cloud Service platform, and a history of recent issues.
 - Test your Copilot Agent:
