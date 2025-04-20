@@ -13,13 +13,9 @@ Define/refine the task this agent needs to undertake
 
 ![Refine Copilot Agent's role](images/DefineTask.png)
 
-Optional - Choose whether to include Web results or not
+Not including public website as sources for now
 
 ![Add publicly accesible sites as source](images/IncludeWeb.png)
-
-List URLs to crawl, if you said "Yes" in the above.
-
-![List public sites](images/IncludeURL.png)
 
 Check the box to confirm adding the site and click create button (see right margin)
 
