@@ -5,7 +5,7 @@ Use NLP to kick off the creation of the Agent
 
 ![NLP Agent Creation](images/NLPDeclarativeAgent.png)
 
-Name the Agent
+Accept the suggested name or pick a different one.
 
 ![Name your Copilot Agent](images/NamingTheCopilot.png)
 
@@ -17,7 +17,7 @@ Not including public website as sources for now
 
 ![Add publicly accesible sites as source](images/IncludeWeb.png)
 
-Check the box to confirm adding the site and click create button (see right margin)
+Click create button (see right margin, towards the top corner)
 
 ![Confirm and create](images/ConfirmAndCreate.png)
 
