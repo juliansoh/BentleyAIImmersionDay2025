@@ -7,5 +7,9 @@ Edit the agent and change the description and the general instructions. Note tha
 
 ![Automatically handling translation](/images/AutomaticLanguageHandling.png)
 
+Note that when you test it, asking the agent a question in French will get you a response also in French because that is the language you used for the question. However, the source in the citation is in Mandarin. If you ask it a different question in any of the [other supported languages](https://support.microsoft.com/en-us/office/supported-languages-for-microsoft-365-copilot-94518d61-644b-4118-9492-617eea4801d8) in Microsoft Copilot, it will respond in that language.
+
+![AskFrenchAnswerFrenchSourceMandarin](/images/AskFrenchAnswerFrenchSourceMandarin.png)
+
 ([__Return to lab__](/README.md#lab-manual))
 
