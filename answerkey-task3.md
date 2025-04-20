@@ -1,4 +1,4 @@
-([__Return to lab__](/README.md))
+([__Return to lab__](/README.md#lab-manual))
 # Answer Key
 
 ## Task 3: Creating a copilot agent
@@ -42,5 +42,5 @@ Disable "Allow the AI to use its own general knowledge". We do this so it will a
 
 ![DisableGeneralKnowledge](images/DisableGeneralKnowledge.png)
 
-([__Return to lab__](/README.md))
+([__Return to lab__](/README.md#lab-manual))
 
