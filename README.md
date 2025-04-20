@@ -22,7 +22,7 @@ _Level: 101_
 ## Lab Manual
 Please complete each task:
 
-**Task 1**: _Optional_: Complete the reading list to understand what is a copilot agent.
+**Task 1**: _(Optional)_ Complete the reading list to understand what is a copilot agent.
 
 **Task 2**: Explore using the Microsoft Copilot Chat
 - Launch the Microsoft Edge explorer
