@@ -73,7 +73,7 @@ Please complete each task:
    - Latest SEC filings: _https://bentleysystems.gcs-web.com/rss/sec-filings.xml_
    - Recent events: _https://bentleysystems.gcs-web.com/rss/events.xml_
 
-**Task 6**: Final report and presentation
+**Task 6**: Prepare final report and presentation
 
 Present what you and your team have learned and how would you apply this in your day-to-day job? You can use your observations when carrying out the tasks above as well as the following guideline:
 - Key learnings
