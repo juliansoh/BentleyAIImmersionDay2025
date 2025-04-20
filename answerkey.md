@@ -20,3 +20,24 @@ Not including public website as sources for now
 Check the box to confirm adding the site and click create button (see right margin)
 
 ![Confirm and create](images/ConfirmAndCreate.png)
+
+Test the agent to make sure it is responding. Then edit the agent and select Add Knowldge.
+
+![Add Knowledge](images/AddKnowledge.png)
+
+Select ShrePoint.
+
+![Select SharePont](images/SelectSharePoint.png)
+
+Paste or type the URL to the folder in your OneDrive (hint: Navigate to that OneDrive folder from your browser and copy the URL)
+
+![OneDrive URL](images/OneDriveURL.png)
+
+Give the OneDrive Knowledge Source a name, then click Add.
+
+![Name the KB](images/NameTheKB.png)
+
+Disable "Allow the AI to use its own general knowledge". We do this so it will always use the knowledge source(s) and those will be the authoritative source. You will need to confirm this action. Click on the "Learn more" link if you want more information.
+
+![DisableGeneralKnowledge](images/DisableGeneralKnowledge.png)
+
