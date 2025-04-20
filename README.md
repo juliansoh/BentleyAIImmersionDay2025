@@ -31,7 +31,7 @@ Please complete each task:
 - Launch Microsoft Edge internet browser
 - At the top right corner, click on the Copilot icon ([image](images/CopilotChat.png))
 - Use Copilot Chat to answer any question you may have. Take note of the question and the answers
-- Use the Add Content (paper clip icon) to attach one of the files from the documents folder in this repo ([image](images/AttachFile.png))
+- Use the Add Content (paper clip icon) to attach the pdf file titled _"ProjectWise_Web_and_Drive_User_Manual.pdf"_ from the documents folder in this repo ([image](images/AttachFile.png))
 - Ask questions about the contents of the file you just uploaded.
 - Observations:
    - What are the benfits of using Copilot Chat versus ChatGPT or other public service?
@@ -51,7 +51,7 @@ Please complete each task:
       - _"Give me high level instructions for developing applications using MDL."_
       - _"What does Bentley Systems do?"_
       - _"Quelles sont les exigences pour MDL ?"_
-- Note your observations (examples but not limited to the following examples):
+- Note your observations (examples but not limited to the following):
    - Does the agent answer questions that are not covered in by the documents in the folder?
    - How did you test/confirm the above?
    - Does it handle translation for you? What languages? Was it automatic?
