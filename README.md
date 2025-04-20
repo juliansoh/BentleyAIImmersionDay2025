@@ -16,11 +16,11 @@ At the end of this hackathon, present your learnings, benefits, and applicable u
 ## Lab Manual
 Please complete each task:
 
-Task 1: Complete the reading list to understand what is is a copilot.
+__Task 1__: Complete the reading list to understand what is is a copilot.
 
-Task 2: Explore using the Microsoft Copilot Chat
+__Task 2__: Explore using the Microsoft Copilot Chat
 
-Task 3: Navigating Copilot Studio ([answer key](answerkey.md))
+__Task 3__: Navigating Copilot Studio ([answer key](answerkey.md))
 - Create a folder in your enterprise OneDrive and upload a few files
    - You can use [the sample files in the /sample folder](documents/) of this repository if you like
 - Go to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com) and log in.
@@ -37,13 +37,13 @@ Task 3: Navigating Copilot Studio ([answer key](answerkey.md))
    - How did you test/confirm the above?
    - Does it handle translation for you? What langugaes?
 
-Task 4: Edit your Copilot to retrieve the current status of Bentley Cloud Services and recent history of incidents.
+__Task 4__: Edit your Copilot to retrieve the current status of Bentley Cloud Services and recent history of incidents.
 - RSS feed for the Bentley Cloud Services is located here: https://status.bentley.com/history.rss
 - Expand the capability of your Copilot agent to retrieve the current status of services hosted in the Bentley Cloud Service platform, and a history of recent issues.
 - Test your Copilot Agent:
    - Ask about service status
    - Ask details about specific incidents of services that recently had incidents
-   
+
 
 
 
