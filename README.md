@@ -33,30 +33,30 @@ Please complete each task:
 **Task 3**: Navigating Copilot Studio ([answer key](answerkey.md))
 - Create a folder in your enterprise OneDrive and upload a few files
    - You can use [the sample files in the /sample folder](documents/) of this repository if you like
-- Go to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com) and log in.
+- Go to _[https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)_ and log in.
 - Create an agent that will:
    - Use the above OneDrive folder that you created, and the files in it, as a knowledge source
    - Do NOT use the AI's general knowledge. Make the OneDrive folder the authoritative source for all answers.
    - Test your agent to see if it is working. If you used the files in the sample folder, your agent should be able to answer these questions (but do not restrict your testing to just these questions):
-      - "What are the requirements for MicroStation?"
-      - "What are the data file variables for MicroStation?"
-      - "Give me high level instructions for developing applications using MDL."
-      - "What does Bentley Systems do?"
+      - _"What are the requirements for MicroStation?"_
+      - _"What are the data file variables for MicroStation?"_
+      - _"Give me high level instructions for developing applications using MDL."_
+      - _"What does Bentley Systems do?"_
 - Note your observations (examples but not limited to the following examples):
    - Does the agent answer questions that are not covered in by the documents in the folder?
    - How did you test/confirm the above?
    - Does it handle translation for you? What langugaes?
 
 **Task 4**: Edit your Copilot to retrieve the current status of Bentley Cloud Services and recent history of incidents.
-- RSS feed for the Bentley Cloud Services is located here: https://status.bentley.com/history.rss
+- RSS feed for the Bentley Cloud Services is located here: _https://status.bentley.com/history.rss_
 - Expand the capability of your Copilot agent to retrieve the current status of services hosted in the Bentley Cloud Service platform, and a history of recent issues.
 - Test your Copilot Agent:
    - Ask about service status
    - Ask details about specific incidents of services that recently had incidents
 - Optional: Include other Bentley RSS feeds and test:
-   - News releases: https://bentleysystems.gcs-web.com/rss/news-releases.xml
-   - Latest SEC filings: https://bentleysystems.gcs-web.com/rss/sec-filings.xml
-   - Recent events: https://bentleysystems.gcs-web.com/rss/events.xml
+   - News releases: _https://bentleysystems.gcs-web.com/rss/news-releases.xml_
+   - Latest SEC filings: _https://bentleysystems.gcs-web.com/rss/sec-filings.xml_
+   - Recent events: _https://bentleysystems.gcs-web.com/rss/events.xml_
 
 
 
