@@ -73,6 +73,15 @@ Please complete each task:
    - Latest SEC filings: _https://bentleysystems.gcs-web.com/rss/sec-filings.xml_
    - Recent events: _https://bentleysystems.gcs-web.com/rss/events.xml_
 
+**Task 6**: Final report and presentation
+
+Present what you and your team have learned and how would you apply this in your day-to-day job? You can use your observations when carrying out the tasks above as well as the following guideline:
+- Key learnings
+- What business challenge or specific use case will you apply this learning, and how does it benefit the organization?
+- Can you predict any potential improvement metrics?
+- What other capabilities, beyond answering questions, would you/organization benefit from Copilot agents?
+- Any other thoughts, recommendations, concerns you want to bring up for discusion with the broader team?
+
 ## Extra credit use case
 Connect Copilot agent to an external connector (e.g. Salesforce).
 
