@@ -21,6 +21,12 @@ Please complete each task:
 **Task 2**: Explore using the Microsoft Copilot Chat
 - Launch the Microsoft Edge explorer
 - At the top right corner, click on the Copilot icon ([image](images/CopilotChat.png))
+- Use Copilot Chat to answer any question you may have. Take note of the question and the answers
+- Use the Add Content (paper clip icon) to attach one of the files from the documents folder in this repo ([image](images/AttachFile.png))
+- Ask questions about the file you just uploaded.
+- Observations:
+   - What are the benfits of using Copilot Chat versus ChatGPT or other public service?
+   - Benefits of Copilot Chat for Bentley employees?
 
 **Task 3**: Navigating Copilot Studio ([answer key](answerkey.md))
 - Create a folder in your enterprise OneDrive and upload a few files
