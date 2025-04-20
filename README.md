@@ -56,7 +56,7 @@ Please complete each task:
    - How did you test/confirm the above?
    - Does it handle translation for you? What languages? Was it automatic?
 
-**Task 4**: Handling translation
+**Task 4**: Handling translation. ([answer key](answerkey-task4.md))
 - If you did not test your agent by asking a question in a language other than English, try to do so.
    - You can use the question: _"Quelles sont les exigences pour MDL ?" (What are the requirements for MDL?)_
    - Observe response
