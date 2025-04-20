@@ -1,6 +1,7 @@
 ![Microsoft](images/banner.png)
 # Bentley Systems - 2025 AI Immersion Day
 This repository contains resources and instructions for the Hackathon to implement Microsoft 365 Copilots.
+©Microsoft Corporation
 
 ## Agenda
 ![schedule](images/schedule.png)
