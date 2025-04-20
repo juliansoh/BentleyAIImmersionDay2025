@@ -72,7 +72,7 @@ _Level: 101_
 
 ## Lab Manual
 - In the Knowledge section of your agent, add a new knowledge source
-- Select the Advanced tab and pick an external agent. For this Hackathon, select the _Salesforce_ connector. (_![image](images/AddSalesforce.png)_)
+- Select the Advanced tab and pick an external agent. For this Hackathon, select the _Salesforce_ connector. ([image](images/AddSalesforce.png))
 - Ask your coach for the developer sandbox Salesforce login
 
 
