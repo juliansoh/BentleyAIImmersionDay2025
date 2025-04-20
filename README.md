@@ -48,7 +48,6 @@ Please complete each task:
       - _"Give me high level instructions for developing applications using MDL."_
       - _"What does Bentley Systems do?"_
       - _"Quelles sont les exigences pour MDL ?"_
-- Edit your 
 - Note your observations (examples but not limited to the following examples):
    - Does the agent answer questions that are not covered in by the documents in the folder?
    - How did you test/confirm the above?
