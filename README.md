@@ -37,9 +37,13 @@ Task 3: Navigating Copilot Studio ([answer key](answerkey.md))
    - How did you test/confirm the above?
    - Does it handle translation for you? What langugaes?
 
-Task 4: Edit your Copilot to retrieve current status of Bentley Cloud Services and recent history of incidents.
+Task 4: Edit your Copilot to retrieve the current status of Bentley Cloud Services and recent history of incidents.
 - RSS feed for the Bentley Cloud Services is located here: https://status.bentley.com/history.rss
 - Expand the capability of your Copilot agent to retrieve the current status of services hosted in the Bentley Cloud Service platform, and a history of recent issues.
+- Test your Copilot Agent:
+   - Ask about service status
+   - Ask details about specific incidents of services that recently had incidents
+   
 
 
 
