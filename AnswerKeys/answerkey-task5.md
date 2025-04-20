@@ -1,7 +1,7 @@
 ([__Return to lab__](/README.md#lab-manual))
 # Answer Key
 
-## Task 4: Modify agent to retrieve status of services hosted by Bentley Cloud Services platform
+## Task 5: Modify agent to retrieve status of services hosted by Bentley Cloud Services platform
 Use NLP to kick off the creation of the Agent
 
 Edit the agent and select Add Knowledge.
