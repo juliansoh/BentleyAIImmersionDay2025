@@ -28,7 +28,7 @@ Test the agent to make sure it is responding. Then edit the agent and select Add
 
 Select ShrePoint.
 
-![Select SharePont](images/SelectSharePoint.png)
+![Select SharePoint](images/SelectSharePoint.png)
 
 Paste or type the URL to the folder in your OneDrive (hint: Navigate to that OneDrive folder from your browser and copy the URL)
 
