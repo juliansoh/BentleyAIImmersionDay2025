@@ -16,7 +16,7 @@ At the end of this hackathon, present your learnings, benefits, and applicable u
 ## Lab Manual
 Please complete each task:
 
-**Task 1**: Complete the reading list to understand what is is a copilot.
+**Task 1**: Complete the reading list to understand what is a copilot agent.
 
 **Task 2**: Explore using the Microsoft Copilot Chat
 - Launch the Microsoft Edge explorer
