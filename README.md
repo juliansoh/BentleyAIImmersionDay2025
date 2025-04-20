@@ -82,18 +82,7 @@ Present what you and your team have learned and how would you apply this in your
 - What other capabilities, beyond answering questions, would you/organization benefit from Copilot agents?
 - Any other thoughts, recommendations, concerns you want to bring up for discusion with the broader team?
 
-## Extra credit use case
-Connect Copilot agent to an external connector (e.g. Salesforce).
 
-_Duration: 30 minutes_
-
-_Level: 101_
-
-## Lab Manual
-- In the Knowledge section of your agent, add a new knowledge source
-- Select the Advanced tab and pick an external agent. For this Hackathon, select the _Salesforce_ connector. ([image](images/AddSalesforce.png))
-- Ask your coach for the developer sandbox Salesforce login
-- Select the Opportunities table to add
 
 
 
