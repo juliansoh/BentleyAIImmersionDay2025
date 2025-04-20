@@ -6,15 +6,15 @@ Use NLP to kick off the creation of the Agent
 
 Edit the agent and select Add Knowledge.
 
-![Add Knowledge](images/AddKnowledge.png)
+![Add Knowledge](/images/AddKnowledge.png)
 
 Select Public Websites.
 
-![Select Public Site](images/SelectPublicSite.png)
+![Select Public Site](/images/SelectPublicSite.png)
 
 Paste/type this URL in the Webpage link box then click Add: _https://status.bentley.com/history.rss_
 
-![OneDrive URL](images/BentleyServicesStatus.png)
+![OneDrive URL](/images/BentleyServicesStatus.png)
 
 Confirm website ownership then click Add.
 
