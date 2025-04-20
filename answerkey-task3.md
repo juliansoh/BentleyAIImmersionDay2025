@@ -1,3 +1,4 @@
+([__Return to lab__](/README.md))
 # Answer Key
 
 ## Task 3: Creating a copilot agent
