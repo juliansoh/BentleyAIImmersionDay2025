@@ -1,6 +1,6 @@
 ![Microsoft](images/banner.png)
 # Bentley Systems - 2025 AI Immersion Day
-This repository contains resources and instructions for the Hackathon to implement Microsoft 365 Copilot Agents.
+This repository contains resources and instructions for the Hackathon to deploy and use Microsoft 365 Copilot Agents.
 
 ©Microsoft Corporation
 
