@@ -17,6 +17,7 @@ _Level: 101_
 ## Reading materials
 1. [What is Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 1. [Use SharePoint Content for generative answers](https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-generative-answers-sharepoint-onedrive)
+1. [Knowledge sources for Copilot Agent](https://learn.microsoft.com/en-us/microsoft-copilot-studio/knowledge-copilot-studio)
 
 ## Lab Manual
 Please complete each task:
