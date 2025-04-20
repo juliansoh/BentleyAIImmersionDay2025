@@ -43,6 +43,10 @@ Please complete each task:
 - Test your Copilot Agent:
    - Ask about service status
    - Ask details about specific incidents of services that recently had incidents
+- Optional: Include other Bentley RSS feeds and test:
+   - News releases: https://bentleysystems.gcs-web.com/rss/news-releases.xml
+   - Latest SEC filings: https://bentleysystems.gcs-web.com/rss/sec-filings.xml
+   - Recent events: https://bentleysystems.gcs-web.com/rss/events.xml
 
 
 
