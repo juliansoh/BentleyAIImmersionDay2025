@@ -28,7 +28,7 @@ Please complete each task:
 **Task 1**: _(Optional)_ Complete the reading list to understand what is a copilot agent.
 
 **Task 2**: Explore using Microsoft Copilot Chat
-- Launch the Microsoft Edge explorer
+- Launch Microsoft Edge internet browser
 - At the top right corner, click on the Copilot icon ([image](images/CopilotChat.png))
 - Use Copilot Chat to answer any question you may have. Take note of the question and the answers
 - Use the Add Content (paper clip icon) to attach one of the files from the documents folder in this repo ([image](images/AttachFile.png))
