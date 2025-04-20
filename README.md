@@ -38,7 +38,7 @@ Please complete each task:
    - Benefits of Copilot Chat for Bentley employees?
    - How much does Copilot Chat cost?
 
-**Task 3**: Deploy an agent using Copilot Studio ([answer key](answerkey-task3.md))
+**Task 3**: Deploy an agent using Copilot Studio ([answer key](AnswerKeys/answerkey-task3.md))
 - Create a folder in your enterprise OneDrive and upload a few files
    - You can use [the sample files in the /sample folder](documents/) of this repository if you like
 - Go to _[https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)_ and log in.
@@ -56,13 +56,13 @@ Please complete each task:
    - How did you test/confirm the above?
    - Does it handle translation for you? What languages? Was it automatic?
 
-**Task 4**: Handling translation. ([answer key](answerkey-task4.md))
+**Task 4**: Handling translation. ([answer key](AnswerKeys/answerkey-task4.md))
 - If you did not test your agent by asking a question in a language other than English, try to do so.
    - You can use the question: _"Quelles sont les exigences pour MDL ?" (What are the requirements for MDL?)_
    - Observe response
 - Instead of the agent always answering in English, have it answer in the language of the user.
 
-**Task 5**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](answerkey-task5.md))
+**Task 5**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](AnswerKeys/answerkey-task5.md))
 - RSS feed for the Bentley Cloud Services is located here: _https://status.bentley.com/history.rss_
 - Expand the capability of your Copilot agent to retrieve the current status of services hosted in the Bentley Cloud Service platform, and a history of recent issues.
 - Test your Copilot Agent:
