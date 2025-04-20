@@ -8,8 +8,11 @@ This repository contains resources and instructions for the Hackathon to impleme
 ![schedule](images/schedule.png)
 
 ## Main use case
-People taking documents and build a simple agent to ask questions. 
-At the end of this hackathon, present your learnings, benefits, and applicable use cases in Bentley.
+People taking documents and build a simple agent to ask questions.
+### General instructions
+Implement the tasks outlined in the lab manual. Resources that can help you with the tasks are provided as reading materials. At the end of this hackathon, present your learnings, benefits, and applicable use cases at Bentley. Tasks may prompt you/team for observations. These are designed to help with your final presentation and overall understanding of Copilot Agents.
+
+If you have questions, you can ask your session coach or look at the _"(answer key)"_ for the task.
 
 _Duration: 60 minutes_<br>
 _Level: 101_
@@ -59,7 +62,7 @@ Please complete each task:
    - Observe response
 - Instead of the agent always answering in English, have it answer in the language of the user.
 
-**Task 5**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](answerkey-task4.md))
+**Task 5**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](answerkey-task5.md))
 - RSS feed for the Bentley Cloud Services is located here: _https://status.bentley.com/history.rss_
 - Expand the capability of your Copilot agent to retrieve the current status of services hosted in the Bentley Cloud Service platform, and a history of recent issues.
 - Test your Copilot Agent:
