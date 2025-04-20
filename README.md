@@ -7,7 +7,7 @@ This repository contains resources and instructions for the Hackathon to impleme
 ## Agenda
 ![schedule](images/schedule.png)
 
-## Scenario
+## Main use case
 People taking documents and build a simple agent to ask questions. 
 At the end of this hackathon, present your learnings, benefits, and applicable use cases in Bentley.
 
@@ -62,6 +62,18 @@ Please complete each task:
    - News releases: _https://bentleysystems.gcs-web.com/rss/news-releases.xml_
    - Latest SEC filings: _https://bentleysystems.gcs-web.com/rss/sec-filings.xml_
    - Recent events: _https://bentleysystems.gcs-web.com/rss/events.xml_
+
+## Extra credit use case
+Connect Copilot agent to an external connector (e.g. Salesforce).
+
+_Duration: 30 minutes_
+
+_Level: 101_
+
+## Lab Manual
+- In the Knowledge section of your agent, add a new knowledge source
+- Select the Advanced tab and pick an external agent. For this Hackathon, select the _Salesforce_ connector
+- Ask your coach for a Salesforce login
 
 
 
