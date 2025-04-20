@@ -2,7 +2,6 @@
 # Answer Key
 
 ## Task 5: Modify agent to retrieve status of services hosted by Bentley Cloud Services platform
-Use NLP to kick off the creation of the Agent
 
 Edit the agent and select Add Knowledge.
 
