@@ -73,7 +73,17 @@ Please complete each task:
    - Latest SEC filings: _https://bentleysystems.gcs-web.com/rss/sec-filings.xml_
    - Recent events: _https://bentleysystems.gcs-web.com/rss/events.xml_
 
-**Task 6**: Prepare final report and presentation
+**Task 6**: Have you agent carry out a task. ([answer key](AnswerKeys/answerkey-task6.md))
+- Add an Action Item to your agent to do the following:
+   - When a request is made to the agent to send an email of the answers to an inquiry, in this case, e.g. "Email the Status of Bentley Cloud Services health dashboard", the agent will:
+      - Send the email and upon successfully sending the email, respond that the email was sent, together with the message that will be included in the email, as seen below
+
+      ![ResponseToSendEmail](/images/ResponseToSendEmail.png)
+
+- For this Action Item, use the Outlook Send an Email (V2) connector. ([image](/images/Outlook-SendAnEmailV2.png))
+
+
+**Task 7**: Prepare final report and presentation
 
 Present what you and your team have learned and how would you apply this in your day-to-day job? You can use your observations when carrying out the tasks above as well as the following guideline:
 - Key learnings
@@ -81,9 +91,3 @@ Present what you and your team have learned and how would you apply this in your
 - Can you predict any potential improvement metrics?
 - What other capabilities, beyond answering questions, would you/organization benefit from Copilot agents?
 - Any other thoughts, recommendations, concerns you want to bring up for discusion with the broader team?
-
-
-
-
-
-
