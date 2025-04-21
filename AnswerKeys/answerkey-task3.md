@@ -42,6 +42,10 @@ Disable "Allow the AI to use its own general knowledge". We do this so it will a
 
 ![DisableGeneralKnowledge](/images/DisableGeneralKnowledge.png)
 
+Turn on the use of Generative AI for orchestration purposes. This will allow the agent to use LLM to determine how best to respond to a user request.
+
+![UseLLMforOrchestration](/images/UseLLMforOrchestration.png)
+
 To have the agent automatically use the language of the user, use prompt engineering. Edit the agent and change the prompt for this agent as shown below.
 
 ![AutomaticLanguageHandling](/images/AutomaticLanguageHandling.png)
