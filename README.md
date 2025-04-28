@@ -56,12 +56,12 @@ Please complete each task:
    - Does it handle translation for you? What languages? Was it automatic?
 
 **Task 4**: Handling translation. ([answer key](AnswerKeys/answerkey-task4.md))
-- Now let's turn on the "Allow the agent to use its own General Knowledge" feature.  By doing so, the Agent will now have the ability to digest and respond in a large number of languages.  You
+- Now let's turn on the "Allow the agent to use its own General Knowledge" feature.  By doing so, the Agent will now have the ability to digest and respond in a large number of languages.  You also have the option of specifically chosing your language options and leaving this feature disabled.  The key learning here is that your use case and "agent recipe" may differ depending on the desired engagement and outcome that you want to achieve.
    - You can use the question: _"Pouvez-vous me dire quels sont les secteurs desservis par Bentley Systems?)_
    - Observe response
-- Instead of the agent always answering in English, have it answer in the language of the user.
+- Instead of the agent always answering in English, have it answer in the language of the user or user base.
 
-**Task 5**: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](AnswerKeys/answerkey-task5.md))
+**Task 5** [Optional Task if time permits}: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](AnswerKeys/answerkey-task5.md))
 - RSS feed for the Bentley Cloud Services is located here: _https://status.bentley.com/history.rss_
 - Expand the capability of your Copilot agent to retrieve the current status of services hosted in the Bentley Cloud Service platform, and a history of recent issues.
 - Test your Copilot Agent:
