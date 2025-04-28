@@ -52,8 +52,8 @@ Please complete each task:
       - Please your team section for "Starter Prompts" and Sample Questions, your group leader will explain the difference.
 - Note your observations (examples but not limited to the following):
    - Does the agent answer questions that are not covered by the knowledge you supplied?
-   - How did you test/confirm the above?
-   - Does it handle translation for you? What languages? Was it automatic?
+   - How did you test/confirm the above, what questions did you ask it?
+   - Does it handle a different language for you?
 
 **Task 4**: Handling translation. ([answer key](AnswerKeys/answerkey-task4.md))
 - Now let's turn on the "Allow the agent to use its own General Knowledge" feature.  By doing so, the Agent will now have the ability to digest and respond in a large number of languages.  You also have the option of specifically chosing your language options and leaving this feature disabled.  The key learning here is that your use case and "agent recipe" may differ depending on the desired engagement and outcome that you want to achieve.
@@ -61,32 +61,13 @@ Please complete each task:
    - Observe response
 - Instead of the agent always answering in English, have it answer in the language of the user or user base.
 
-**Task 5** [Optional Task if time permits}: Edit your agent to retrieve the current status of Bentley Cloud Services and recent history of incidents. ([answer key](AnswerKeys/answerkey-task5.md))
-- RSS feed for the Bentley Cloud Services is located here: _https://status.bentley.com/history.rss_
-- Expand the capability of your Copilot agent to retrieve the current status of services hosted in the Bentley Cloud Service platform, and a history of recent issues.
-- Test your Copilot Agent:
-   - Ask about service status
-   - Ask details about specific incidents of services that recently had incidents
-- Optional: Include other Bentley RSS feeds and test:
-   - News releases: _https://bentleysystems.gcs-web.com/rss/news-releases.xml_
-   - Latest SEC filings: _https://bentleysystems.gcs-web.com/rss/sec-filings.xml_
-   - Recent events: _https://bentleysystems.gcs-web.com/rss/events.xml_
-
-**Task 6**: Have you agent carry out a task. ([answer key](AnswerKeys/answerkey-task6.md))
-- Add an Action Item to your agent to do the following:
-   - When a request is made to the agent to send an email of the answers to an inquiry, in this case, e.g. "Email the Status of Bentley Cloud Services health dashboard", the agent will:
-      - Send the email and upon successfully sending the email, respond that the email was sent, together with the message that will be included in the email, as seen below
-
-      ![ResponseToSendEmail](/images/ResponseToSendEmail.png)
-
-- For this Action Item, use the Outlook Send an Email (V2) connector. ([image](/images/Outlook-SendAnEmailV2.png))
-
-
-**Task 7**: Prepare final report and presentation
+**Task 5**: Prepare final report and presentation
 
 Present what you and your team have learned and how would you apply this in your day-to-day job? You can use your observations when carrying out the tasks above as well as the following guideline:
-- Key learnings
+Key learnings
 - What business challenge or specific use case will you apply this learning, and how does it benefit the organization?
 - Can you predict any potential improvement metrics?
 - What other capabilities, beyond answering questions, would you/organization benefit from Copilot agents?
+- How would you measure this impact?
 - Any other thoughts, recommendations, concerns you want to bring up for discusion with the broader team?
+- Do you want to participate in an ALL DAY AI HACKATHON?  Your idea may be chosen for production and use by Bentley Systems or their Customers!
