@@ -41,11 +41,11 @@ Please complete each task:
    - Benefits of Copilot Chat for Bentley employees?
    - How much does Copilot Chat cost?
 
-**Task 3**: MAIN EVENT - Deploy an agent using Copilot Studio ([answer key](AnswerKeys/answerkey-task3.md))
+**Task 3**: MAIN EVENT - Deploy an agent using Copilot Studio (documents/SAMPLE - BENTLEY AI WORKSHOP.xlsx)
 - Go to _[https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)_ and log in. [your user account has been assigned a Copilot Studio License and Security role for one of the (5) Environments available.  If you are in Teams Breakout Room #1, you will use the DEV-BENT-CPS1 Environment, if you are in Teams Breakout Room #2, will use DEV-BENT-CPS2, and so on.  This is a full functional environment.
 - Create an agent that will:
-   - Use the Bentley Product URL's assigned to your Group (please see ([answer key](AnswerKeys/answerkey-task3.md)) for the URL's to use for each group), as a knowledge sources for your agent.
-   - You will then configure several more settings, ([answer key](AnswerKeys/answerkey-task3.md))
+   - Use the Bentley Product URL's assigned to your Group (please see (documents/SAMPLE - BENTLEY AI WORKSHOP.xlsx) for the URL's to use for each group), as a knowledge sources for your agent.
+   - You will then configure several more settings, (documents/SAMPLE - BENTLEY AI WORKSHOP.xlsx)
    - Do NOT use the AI's general knowledge. Make the URL's provided as the authoritative source for all answers.  Your leader will show you where these settings are found.
    - Once you have completed the set up, settings, and then published your Agent, you can now test it out.
    - Test your agent to see if it is working. Your agent should be able to answer questions about the products you have set it up specifically to address (but do not restrict your testing to just these questions):
@@ -55,7 +55,7 @@ Please complete each task:
    - How did you test/confirm the above, what questions did you ask it?
    - Does it handle a different language for you?
 
-**Task 4**: Handling translation. ([answer key](AnswerKeys/answerkey-task4.md))
+**Task 4**: Handling translation. (documents/SAMPLE - BENTLEY AI WORKSHOP.xlsx)
 - Now let's turn on the "Allow the agent to use its own General Knowledge" feature.  By doing so, the Agent will now have the ability to digest and respond in a large number of languages.  You also have the option of specifically chosing your language options and leaving this feature disabled.  The key learning here is that your use case and "agent recipe" may differ depending on the desired engagement and outcome that you want to achieve.
    - You can use the question: _"Pouvez-vous me dire quels sont les secteurs desservis par Bentley Systems?)_
    - Observe response
