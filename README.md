@@ -45,7 +45,7 @@ Please complete each task:
 - Go to _[https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)_ and log in. [your user account has been assigned a Copilot Studio License and Security role for one of the (5) Environments available.  If you are in Teams Breakout Room #1, you will use the DEV-BENT-CPS1 Environment, if you are in Teams Breakout Room #2, will use DEV-BENT-CPS2, and so on.  This is a full functional environment.
 - Create an agent that will:
    - Use the Bentley Product URL's assigned to your Group (please see ([answer key](AnswerKeys/answerkey-task3.md)) for the URL's to use for each group), as a knowledge sources for your agent.
-   - You will then configure severl more settings, ([answer key](AnswerKeys/answerkey-task3.md))
+   - You will then configure several more settings, ([answer key](AnswerKeys/answerkey-task3.md))
    - Do NOT use the AI's general knowledge. Make the URL's provided as the authoritative source for all answers.  Your leader will show you where these settings are found.
    - Once you have completed the set up, settings, and then published your Agent, you can now test it out.
    - Test your agent to see if it is working. Your agent should be able to answer questions about the products you have set it up specifically to address (but do not restrict your testing to just these questions):
