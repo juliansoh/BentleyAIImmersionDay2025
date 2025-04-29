@@ -43,6 +43,9 @@ Please complete each task:
 
 **Task 3**: MAIN EVENT - Deploy an agent using Copilot Studio [SAMPLE - BENTLEY AI WORKSHOP](documents/SAMPLE-BENTLEY-AI-WORKSHOP.xlsx)
 - Go to _[https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)_ and log in. [your user account has been assigned a Copilot Studio License and Security role for one of the (5) Environments available.  If you are in Teams Breakout Room #1, you will use the DEV-BENT-CPS1 Environment, if you are in Teams Breakout Room #2, will use DEV-BENT-CPS2, and so on.  This is a full functional environment.
+- In the menu located to the left of Copilot Studio, select Create.
+- Click on New Agent
+- At the top right of the screen, select Skip to Configure.
 - Create an agent that will:
    - [Please Click Here and Pick You Group's Excel File for the Exercise](documents/)
    - Use the Bentley Product URL's unique to each of the groups excel files.
