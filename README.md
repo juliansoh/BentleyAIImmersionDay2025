@@ -41,7 +41,7 @@ Please complete each task:
    - Benefits of Copilot Chat for Bentley employees?
    - How much does Copilot Chat cost?
 
-**Task 3**: MAIN EVENT - Deploy an agent using Copilot Studio [SAMPLE - BENTLEY AI WORKSHOP](documents/SAMPLE - BENTLEY AI WORKSHOP.xlsx)
+**Task 3**: MAIN EVENT - Deploy an agent using Copilot Studio [SAMPLE - BENTLEY AI WORKSHOP](documents/SAMPLE-BENTLEY-AI-WORKSHOP.xlsx)
 - Go to _[https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)_ and log in. [your user account has been assigned a Copilot Studio License and Security role for one of the (5) Environments available.  If you are in Teams Breakout Room #1, you will use the DEV-BENT-CPS1 Environment, if you are in Teams Breakout Room #2, will use DEV-BENT-CPS2, and so on.  This is a full functional environment.
 - Create an agent that will:
    - [Please Click Here and Pick You Group's Excel File for the Exercise](documents/)
