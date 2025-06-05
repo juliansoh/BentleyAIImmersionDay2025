@@ -7,7 +7,7 @@ This repository contains resources and instructions for the Hackathon to deploy 
 ©Microsoft Corporation
 
 ## Agenda
-![schedule](images/image(7).png)
+![schedule](images/image (7).png)
 
 ## Main use case
 Simple and Quick use of Copilot Chat to get the juices flowing!  Then - Fellow Hackers (Makers) will assemble an agent who's main purpose is answering customer and employee questions on Bentley Systems products and services based on the publically available content on the Bentley Systems Website.
