@@ -36,6 +36,7 @@ Please complete each task:
 - Use Copilot Chat to answer any question you may have. Take note of the question and the answers
 - Use the Add Content (paper clip icon) to attach the pdf file titled _"documents/eBook-Water-Infrastructure-Digital-Twins-EN.pdf"_ from the documents folder in this repo ([image](images/AttachFile.png))
 - Ask questions about the contents of the file you just uploaded.
+- Try this prompt... "My customer is interested in learning more about Digital Twins specific to the Water Infrastructure Industry.  I would like you to create en email containing 500 words or less that explains the value of our technology. Please also add a call to action that invites the customer to meet us and discuss how we can partner."
 - Observations:
    - What are the benfits of using Copilot Chat versus ChatGPT or other public service?
    - Benefits of Copilot Chat for Bentley employees?
