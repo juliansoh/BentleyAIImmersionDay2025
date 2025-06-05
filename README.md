@@ -34,7 +34,7 @@ Please complete each task:
 - Launch Microsoft Edge internet browser
 - At the top right corner, click on the Copilot icon ([image](images/CopilotChat.png))
 - Use Copilot Chat to answer any question you may have. Take note of the question and the answers
-- Use the Add Content (paper clip icon) to attach the pdf file titled _"ProjectWise_Web_and_Drive_User_Manual.pdf"_ from the documents folder in this repo ([image](images/AttachFile.png))
+- Use the Add Content (paper clip icon) to attach the pdf file titled _"documents/eBook-Water-Infrastructure-Digital-Twins-EN.pdf"_ from the documents folder in this repo ([image](images/AttachFile.png))
 - Ask questions about the contents of the file you just uploaded.
 - Observations:
    - What are the benfits of using Copilot Chat versus ChatGPT or other public service?
